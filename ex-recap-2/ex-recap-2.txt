@@ -1,0 +1,30 @@
+NEVER GONNA GIVE YOU UP!
+
+78 = N
+69 = E
+86 = V
+69 = E
+82 = R
+32 = (Espace)
+
+71 = G
+79 = O
+78 = N
+78 = N
+65 = A
+32 = (Espace)
+
+71 = G
+73 = I
+86 = V
+69 = E
+32 = (Espace)
+
+89 = Y
+79 = O
+85 = U
+32 = (Espace)
+
+85 = U
+80 = P
+33 = !
